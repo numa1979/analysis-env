@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+matplotlib
+ipykernel
+black
+tensorflow
+optuna
+autopep8
+scikit-learn

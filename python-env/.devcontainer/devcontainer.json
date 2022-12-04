@@ -1,0 +1,11 @@
+{
+	"name": "Python3.10 Docker",
+	"dockerFile": "../Dockerfile",
+	"extensions": [
+		"ms-python.python",
+		"njpwerner.autodocstring",
+		"mosapride.zenkaku",
+		"octref.vetur",
+		"ms-python.vscode-pylance"
+	]
+}
